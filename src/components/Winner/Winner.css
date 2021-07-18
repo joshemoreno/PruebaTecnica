@@ -1,0 +1,38 @@
+.containerBack{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #0d3344;
+}
+
+.rowInput{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+
+.btnCustom{
+    border: 30px;
+    font-size: 20px;
+}
+
+.inputCustom{
+    padding-right: 100px;
+    padding-left: 100px;
+}
+.inpCustom{
+    font-size: 20px;
+}
+.button{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.customText{
+    font-size: 40px;
+    color: white;
+    margin-bottom: 30px;
+}
